@@ -34,14 +34,14 @@ body {
   border: none;
   background: red;
   color: white;
-  width: 80px;
-  height: 30px;
+  width: 100px;
+  height: 36px;
   font-weight: bold;
 }
 
 .button1 {
   position: relative;
-  left: 360px;
+  left: 386px;
 }
 
 .button1:hover {
