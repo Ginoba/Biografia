@@ -28,3 +28,22 @@ body {
   font-size: 12px;
   margin-left: 520px;
 }
+
+.primary_button {
+  border-radius: 8px;
+  border: none;
+  background: red;
+  color: white;
+  width: 80px;
+  height: 30px;
+  font-weight: bold;
+}
+
+.button1 {
+  position: relative;
+  left: 360px;
+}
+
+.button1:hover {
+  cursor: pointer;
+}
