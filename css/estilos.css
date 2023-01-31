@@ -47,3 +47,17 @@ body {
 .button1:hover {
   cursor: pointer;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.drake {
+  width: 600px;
+  height: 400px;
+}
+
+.alex_drag {
+  text-align: center;
+}
